@@ -1,0 +1,23 @@
+<section id="best-seller" class="best-seller">
+    <h2 class="judul-best-seller">Menu Andalan Kami</h2>
+    <p class="subjudul-best-seller">Nikmati menu andalan yang menjadi favorit customer Kami</p>
+
+    <div class="baris">
+        <div class="col-produk">
+            <img src="images/produk/product_capuchino.jpg" alt="">
+            <p class="nama-produk">Capuchino</p>
+        </div>
+        <div class="col-produk">
+            <img src="images/produk/product_espresso.jpg" alt="">
+            <p class="nama-produk">Espresso</p>
+        </div>
+        <div class="col-produk">
+            <img src="images/produk/product_kopi_susu.jpg" alt="">
+            <p class="nama-produk">Kopi Susu</p>
+        </div>
+        <div class="col-produk">
+            <img src="images/produk/product_latte.jpg" alt="">
+            <p class="nama-produk">Cafe Latte</p>
+        </div>
+    </div>
+</section>

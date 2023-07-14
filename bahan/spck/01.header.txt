@@ -1,0 +1,19 @@
+<header>
+    <div class="baris">
+        <div class="col-kiri">
+            <h1 class="judul-header">Kopi Kuy <img src="images/icon/icon_kopi.svg"></h1>
+
+            <p class="subjudul-header">Kopi Kuy merupakan sebuah startup kopi retail yang ingin menyajikan high
+                quality Coffee untuk para pelanggannya.</p>
+            <p class="dapat-dibeli">Dapat dibeli melalui</p>
+
+            <div class="olshop">
+                <img src="images/logo/logo_bukalapak.png" alt="">
+                <img src="images/logo/logo_tokopedia.png" alt="">
+                <img src="images/logo/logo_shopee.png" alt="">
+            </div>
+        </div>
+
+        <img class="col-kanan" src="images/header/header1.png">
+    </div>
+</header>
